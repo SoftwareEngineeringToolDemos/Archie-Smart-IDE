@@ -5,7 +5,7 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 This repository is not the original repository for this tool. Here are some links to the original project:
 
 + [The Official Project Page](https://github.com/ArchieProject/Archie-Smart-IDE)
-+ A Video of the Tool 
++ [A Video of the Tool](http://re.cs.depaul.edu/mehdi/Archie.mp4) 
 
 In this repository, for Archie-Smart-IDE you will find:
 + :white_check_mark: [Source code](https://github.com/ArchieProject/Archie-Smart-IDE)
