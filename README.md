@@ -2,7 +2,7 @@ This repository contains information related to the tool Archie-Smart-IDE, a too
 
 The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?id=2661671) at Foundations of Software Engineering, 2014.
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository *is not* the original repository for this tool. Here are some links to the original project:
 
 + [The Official Project Page](https://github.com/ArchieProject/Archie-Smart-IDE)
 + [A Video of the Tool](http://re.cs.depaul.edu/mehdi/Archie.mp4) 
