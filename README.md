@@ -1,6 +1,9 @@
-This repository contains information related to the tool Archie-Smart-IDE, a tool for detecting, monitoring, and preserving architecturally significant code
+# FSE-2014-Archie-Smart-IDE
+Archie is a tool for detecting, monitoring, and preserving architecturally significant code
 
-The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?id=2661671) at Foundations of Software Engineering, 2014.
+***
+
+This repository contains information related to the tool Archie-Smart-IDE.The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?id=2661671) at Foundations of Software Engineering, 2014.
 
 This repository *is not* the original repository for this tool. Here are some links to the original project:
 
