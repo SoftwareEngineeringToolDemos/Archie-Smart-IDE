@@ -13,5 +13,10 @@ This repository *is not* the original repository for this tool. Here are some li
 In this repository, for Archie-Smart-IDE you will find:
 + :white_check_mark: [Source code](https://github.com/ArchieProject/Archie-Smart-IDE)
 + :x: The original tool (not available)
++ :x: Binaries
 
-This repository was constructed by [Ankit Bhandari](https://github.com/Ankit491) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Mehdi Mirakhorli and 	Jane Cleland-Huang for their help in establishing this repository.
+This repository was constructed by [Ankit Bhandari](https://github.com/Ankit491) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
+
+## Attribution
+
+Thanks to Mehdi Mirakhorli and 	Jane Cleland-Huang for their help in establishing this repository.
