@@ -12,3 +12,6 @@
  -  Default VM Login Credentials:  
       user: vagrant  
       password: vagrant
+
+###References :
+ -  Vagrant tutotial by Dustin Barnes,[Vagrant Tutorial](http://www.dev9.com/article/2014/9/dev-environments-with-vagrant)    
