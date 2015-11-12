@@ -1,5 +1,5 @@
 #How to build your own Virtual Machine?
-###The following steps shows how you can spin up a Virtual Machine for tool Evosuite :
+###The following steps shows how you can spin up a Virtual Machine for tool Archie :
 
 1. Install [vagrant] (https://www.vagrantup.com/downloads.html) and [virtualbox] (https://www.virtualbox.org/wiki/Downloads) on your host machine.
 2. Download the [Vagrantfile] (https://github.com/SoftwareEngineeringToolDemos/FSE-2014-Archie-Smart-IDE/blob/master/build_vm/Vagrantfile) from [build-vm] (https://github.com/SoftwareEngineeringToolDemos/FSE-2014-Archie-Smart-IDE/blob/master/build_vm) folder on your machine and save it in a folder where you want to install the VM.
