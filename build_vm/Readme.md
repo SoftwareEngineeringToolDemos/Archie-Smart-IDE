@@ -9,8 +9,8 @@
  -  The Virtual Machine will boot up quickly and but the "vagrant up" command runs for nearly half an hour to complete as it provisions the VM for use when ran for the first time.
  -  Deploys Base Vagrant Box : [Ubuntu 14.04 Desktop] (https://vagrantcloud.com/box-cutter/boxes/ubuntu1404-desktop)
  -  Default VM Login Credentials:  
-      -user: vagrant  
-      -password: vagrant
+      user: vagrant  
+      password: vagrant
 
 ###References :
  -  Vagrant tutotial by Dustin Barnes,[Vagrant Tutorial](http://www.dev9.com/article/2014/9/dev-environments-with-vagrant)    
