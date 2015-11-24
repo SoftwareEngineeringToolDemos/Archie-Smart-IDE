@@ -1,0 +1,7 @@
+*Archie is an eclipse plugin.
+*The plugin is already added to eclipse whose link is provided on Desktop.
+*Archie will be visible in the menu bar.
+*Select the Archie Project and then open plugin.xml. A new window will be open.
+*Add a java project for reference.
+*Then select Automatic Detection.
+*Select Draw me option and select the java project to see how the classes are connected.
