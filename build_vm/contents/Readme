@@ -1,5 +1,6 @@
 1) Archie is an eclipse plugin.
 2) To run the plugin import the Archie project present at desktop as an existing project in eclipse.
 3) Open plugin.xml file and run the application from there.
-4) A new eclipse window will open, add any java project for which Archie needs to be run.
-5) Another way to run is packaging the archie project as a plugin, see installation folder for details.
+4) A new eclipse window will open, Archie will be visible in the menubar.
+5) Add any java project for which Archie needs to be run.
+6) Another way to run is packaging the archie project as a plugin, see installation folder for details but presently as per the authors this is not working.
