@@ -11,9 +11,9 @@ This repository *is not* the original repository for this tool. Here are some li
 + [A Video of the Tool](http://re.cs.depaul.edu/mehdi/Archie.mp4) 
 
 In this repository, for Archie-Smart-IDE you will find:
-+ :white_check_mark: [Source code](https://github.com/ArchieProject/Archie-Smart-IDE)
-+ :x: The original tool (not available)
-+ :x: Binaries
++ :white_check_mark: [Source code](.)
++ :x: Executable tool (not available)
++ :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Ankit Bhandari](https://github.com/Ankit491) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
